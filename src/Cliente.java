@@ -28,6 +28,7 @@ public class Cliente extends Persona {
 	}
 
 	public List<Pedido> getPedido() {
+		// comentario error
 		return pedido;
 	}
 
