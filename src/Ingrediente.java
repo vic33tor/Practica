@@ -65,6 +65,6 @@ public class Ingrediente {
 		else {
 			return true;
 		}
-	}
+	}//cambio
 
 }
